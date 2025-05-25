@@ -33,3 +33,4 @@ jobs:
           package-name: |
             minecraft_utils
             minecraft_utils_visualization
+          vcs-repo-file-url: build_depends.repos
